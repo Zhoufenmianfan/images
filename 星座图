@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T13:55:40.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.30" etag="WONStG2eivoAF18CbQaS" version="16.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T14:02:53.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.30" etag="4azu7_z0kQx8qRWH4who" version="16.6.7" type="github">
   <diagram id="EBqwmIXGYCJjoTrsSk88" name="Page-1">
-    <mxGraphModel dx="716" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="415" dy="219" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kM4i4rEgaXKExrPNz2Mb-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="100" y="200" width="200" height="200" as="geometry" />
+          <mxGeometry x="80" y="200" width="210" height="250" as="geometry" />
         </mxCell>
         <mxCell id="kM4i4rEgaXKExrPNz2Mb-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="kM4i4rEgaXKExrPNz2Mb-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="kM4i4rEgaXKExrPNz2Mb-13" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="kM4i4rEgaXKExrPNz2Mb-3">
           <mxGeometry x="20" y="80" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM4i4rEgaXKExrPNz2Mb-51" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;rotation=90;" vertex="1" parent="kM4i4rEgaXKExrPNz2Mb-3">
+          <mxGeometry x="120" y="80" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kM4i4rEgaXKExrPNz2Mb-4" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="320" y="200" width="200" height="200" as="geometry" />
@@ -53,7 +56,7 @@
           <mxGeometry x="140" y="140" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kM4i4rEgaXKExrPNz2Mb-7" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="550" y="200" width="200" height="200" as="geometry" />
+          <mxGeometry x="560" y="200" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="kM4i4rEgaXKExrPNz2Mb-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="kM4i4rEgaXKExrPNz2Mb-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -66,6 +69,63 @@
             <mxPoint y="100" as="sourcePoint" />
             <mxPoint x="200" y="100" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kM4i4rEgaXKExrPNz2Mb-18" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="kM4i4rEgaXKExrPNz2Mb-7">
+          <mxGeometry x="20" y="60" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM4i4rEgaXKExrPNz2Mb-19" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="kM4i4rEgaXKExrPNz2Mb-7">
+          <mxGeometry x="20" y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM4i4rEgaXKExrPNz2Mb-20" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="kM4i4rEgaXKExrPNz2Mb-7">
+          <mxGeometry x="60" y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM4i4rEgaXKExrPNz2Mb-33" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="kM4i4rEgaXKExrPNz2Mb-7">
+          <mxGeometry x="20" y="100" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM4i4rEgaXKExrPNz2Mb-34" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="kM4i4rEgaXKExrPNz2Mb-7">
+          <mxGeometry x="20" y="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM4i4rEgaXKExrPNz2Mb-35" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="kM4i4rEgaXKExrPNz2Mb-7">
+          <mxGeometry x="60" y="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM4i4rEgaXKExrPNz2Mb-36" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="kM4i4rEgaXKExrPNz2Mb-7">
+          <mxGeometry x="100" y="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM4i4rEgaXKExrPNz2Mb-37" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="kM4i4rEgaXKExrPNz2Mb-7">
+          <mxGeometry x="140" y="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM4i4rEgaXKExrPNz2Mb-38" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="kM4i4rEgaXKExrPNz2Mb-7">
+          <mxGeometry x="140" y="100" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM4i4rEgaXKExrPNz2Mb-39" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="kM4i4rEgaXKExrPNz2Mb-7">
+          <mxGeometry x="140" y="60" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM4i4rEgaXKExrPNz2Mb-40" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="kM4i4rEgaXKExrPNz2Mb-7">
+          <mxGeometry x="140" y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM4i4rEgaXKExrPNz2Mb-41" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="kM4i4rEgaXKExrPNz2Mb-7">
+          <mxGeometry x="100" y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM4i4rEgaXKExrPNz2Mb-42" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="kM4i4rEgaXKExrPNz2Mb-7">
+          <mxGeometry x="100" y="60" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM4i4rEgaXKExrPNz2Mb-43" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="kM4i4rEgaXKExrPNz2Mb-7">
+          <mxGeometry x="60" y="60" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM4i4rEgaXKExrPNz2Mb-44" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="kM4i4rEgaXKExrPNz2Mb-7">
+          <mxGeometry x="60" y="100" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM4i4rEgaXKExrPNz2Mb-45" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="kM4i4rEgaXKExrPNz2Mb-7">
+          <mxGeometry x="100" y="100" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM4i4rEgaXKExrPNz2Mb-46" value="BPSK星座图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="410" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kM4i4rEgaXKExrPNz2Mb-47" value="QPSK星座图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="410" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kM4i4rEgaXKExrPNz2Mb-48" value="16QAM星座图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="410" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
